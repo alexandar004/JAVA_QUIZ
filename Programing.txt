@@ -1,0 +1,31 @@
+d1.What is a correct syntax to output "Hello World" in Java?
+a)print("Hello World");
+b)Console.WriteLine("Hello World");
+c)cout>>"Hello World";
+d)System.out.println("Hello World");
+
+b2.Which data type is used to create a variable that should store text?
+a) string
+b) String
+c) myString
+d) Txt
+
+a3.How do you create a variable with the numeric value 5?
+a) int a = 5;
+b) number a = 5;
+c) double a = 5;
+d) a = 5;
+
+a4.Which method can be used to find the length of a string?
+a) length()
+b) getSize()
+c) len()
+d) getLength()
+
+a5.Which operator is used to add together two values?
+a) The + sign
+b) The & sign
+c) The * sign
+d) The % sign
+
+	
